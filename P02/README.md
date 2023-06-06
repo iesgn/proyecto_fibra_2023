@@ -20,7 +20,7 @@ La fusión de fibra óptica ofrece una unión más fuerte y estable que otros m�
 
 Utiliza calor a alta temperatura generado por un arco eléctrico para fusionar las dos fibras de vidrio, extremo a extremo, con el núcleo de fibra alineado con precisión. Las puntas de las dos fibras se juntan y se calientan para que se derritan. 
 
-![Fusionadora](img/img1.jpg)
+![Fusionadora](img/img1.png)
 
 Este proceso se realiza mediante un equipo de fusión de fibra o fusionadora que alinea los núcleos de las dos fibras enfrentadas con motores servocontrolados por una cámara que realimenta su posición. Una vez enfrentados los núcleos, se produce un arco eléctrico generado por dos electrodos, que funde las fibras consiguiéndose así la fusión.
 
@@ -36,5 +36,5 @@ Este proceso se realiza mediante un equipo de fusión de fibra o fusionadora que
     * **Cuchilla de corte** para terminar la fibra a la longitud adecuada con extremos de alta calidad
     * **Máquina de empalme por fusión** (fusionadora)
 
-![Materiales](img/img2.jpg)
+![Materiales](img/img2.png)
 
