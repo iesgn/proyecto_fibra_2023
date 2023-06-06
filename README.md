@@ -12,7 +12,7 @@
     * Tipos de Conectores
     * Medidas de Protección
 
-2. P02. Empalme por fusión de dos fibras
+2. [P02. Empalme por fusión de dos fibras](P02/README.md)
 
     * Objetivo
     * Introducción
