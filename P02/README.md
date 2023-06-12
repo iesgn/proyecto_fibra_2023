@@ -36,7 +36,7 @@ Este proceso se realiza mediante un equipo de fusión de fibra o fusionadora que
     * **Cuchilla de corte** para terminar la fibra a la longitud adecuada con extremos de alta calidad
     * **Máquina de empalme por fusión** (fusionadora)
 
-![Materiales](img/0.png)
+![Materiales](img/0.JPG)
 
 ## Procedimiento
 
