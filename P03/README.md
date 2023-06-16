@@ -19,6 +19,10 @@ En el ámbito de las redes de fibra óptica, el término "pigtails" se refiere a
 * **Materiales**
     * **Cable holgado monotubo de 8 hilos de fibra multimodo**
     * **Pigtail de fibra óptica SC**
+    * **Alcohol y toallitas** para limpiar la fibra desnuda antes del empalme
+    * **Canutillo**, tubos o mangas de protección, o un sistema de revestimiento de fibra
+* **Herramientas**
+    * **Tijeras de aramida** y otras herramientas para introducir el cable y separar fibras individuales para empalmar   
     * **Pelacables** con cuchilla para cortar revestimientos del cableado.
     * **Alicate** universal o de electricista.
     * **Peladora de fibra** con diferentes tamaños de orificios para eliminar revestimientos de protección de fibra
