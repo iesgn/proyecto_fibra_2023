@@ -40,8 +40,6 @@ Este proceso se realiza mediante un equipo de fusión de fibra o fusionadora que
 
 ## Procedimiento
 
-El procedimiento de empalme por fusión consta de 4 tareas que vamos a dividir en un total de siete pasos.
-
 ### 1. Retirar cubierta exterior
 
 La fibra óptica está protegida mediante varias capas de plástico que hay que retirar previamente al fusionado.
@@ -103,15 +101,26 @@ Para realizar la fusión se colocan y aseguran los extremos de ambas fibras en l
 * Quedar alineados entre si.
 * Quedar centrados respecto a los electrodos.
 
-Siempre **sin que fibras ni electrodos hagan contacto físico**. A continuación, se baja la tapa de la fusionadora y se pulsa el botón de fusión. 
+Siempre **sin que fibras ni electrodos hagan contacto físico**. 
 
-La fusionadora de manera automática evalúa y alinea las fibras antes de proceder a derretir las puntas con una descarga eléctrica para que queden **fusionadas entre sí** y por tanto físicamente unidas.
+Se configura la fusionadora indicándole el tipo de fibra (MM - Multimodo). En cuanto al “Modo operando Fusión”, se puede optar por tres opciones:
 
-![Procedimiento](img/7a.png)
+* **Automática**: la fusionadora se encarga de alinear las fibras e iniciar el fusionado de forma automática.
+* **Semiautomática**: la fusionadora se encarga de alinear las fibras. El empalme/fusión se activa pulsando la tecla Inicio/Start.
+* **Manual**: la alineación de las fibras de debe realizar manualmente haciendo uso de los “botones de dirección” de la fusionadora. El empalme/fusión se activa pulsando la tecla Inicio/Start.
+
+![Procedimeinto](img/11_config1.png)
+
+![Procedimeinto](img/11_config2.png)
+
 
 Se deben colocar los “soportes de fibra” del tamaño que se corresponde con cada cable. En este caso, se hace uso de los soportes o “holders” de 900 micras (0.9) en ambos lados.
 
+![Procedimiento](img/7a.png)
+
 ![Procedimiento](img/7b.png)
+
+A continuación, se baja la tapa de la fusionadora y se pulsa el botón de fusión. 
 
 Si la fusionadora interrumpe el proceso, puede ser debido a uno de estos problemas y habrá que revisar su correcta ejecución en los pasos anteriores:
 
