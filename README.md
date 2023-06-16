@@ -38,12 +38,12 @@
     * Materiales y Herramientas
     * Procedimiento
 
-6. P06. Medición de pérdidas en fibra óptica
+6. [P06. Medición de pérdidas en fibra óptica](P06/README.md)
     * Objetivo
     * Introducción
     * Materiales y Herramientas
 
-7. P07. Utilización del convertidor de medios
+7. [P07. Utilización del convertidor de medios](P07/README.md)
     * Objetivo
     * Introducción
     * Materiales y Herramientas
