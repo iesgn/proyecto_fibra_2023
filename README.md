@@ -32,7 +32,7 @@
     * Materiales y Herramientas
     * Procedimiento
 
-5. P05. Prueba de enlace en fibra óptica
+5. [P05. Prueba de enlace en fibra óptica](P05/README.md)
     * Objetivo
     * Introducción
     * Materiales y Herramientas
