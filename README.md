@@ -17,32 +17,33 @@
     * Introducción
     * Materiales y Herramientas
     * Procedimiento
-3. P03: Fusionado de pigtail
+
+3. [P03. Fusionado de pigtail](P03/README.md)
 
     * Objetivo
     * Introducción
     * Materiales y Herramientas
     * Procedimiento
 
-4. P04: Terminación cable fibra óptica en bandeja de 19"
+4. P04. Terminación cable fibra óptica en bandeja de 19"
 
     * Objetivo
     * Introducción
     * Materiales y Herramientas
     * Procedimiento
 
-5. P05: Prueba de enlace en fibra óptica
+5. P05. Prueba de enlace en fibra óptica
     * Objetivo
     * Introducción
     * Materiales y Herramientas
     * Procedimiento
 
-6. P06: Medición de pérdidas en fibra óptica
+6. P06. Medición de pérdidas en fibra óptica
     * Objetivo
     * Introducción
     * Materiales y Herramientas
 
-7. P07: Utilización del convertidor de medios
+7. P07. Utilización del convertidor de medios
     * Objetivo
     * Introducción
     * Materiales y Herramientas
