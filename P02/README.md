@@ -42,7 +42,7 @@ Este proceso se realiza mediante un equipo de fusión de fibra o fusionadora que
 
 El procedimiento de empalme por fusión consta de 4 tareas que vamos a dividir en un total de siete pasos.
 
-### Retirar cubierta exterior
+### 1. Retirar cubierta exterior
 
 La fibra óptica está protegida mediante varias capas de plástico que hay que retirar previamente al fusionado.
 
@@ -57,25 +57,25 @@ Con una mano se toma la peladora de fibra, mientras con la otra se toma el extre
 ![Procedimiento](img/1b.JPG)
 ![Procedimiento](img/1c.JPG)
 
-### Retirar la aramida
+### 2. Retirar la aramida
 
 Sujetar la fibra de aramida y cortarla haciendo uso de las tijeras de aramida.
 
 ![Procedimiento](img/2.JPG)
 
-### Insertar un canutillo protector
+### 3. Insertar un canutillo protector
 
 Antes de fusionar los dos cables de fibra óptica, hay que introducir en uno de ellos un **canutillo protector**. Después del fusionado, el canutillo **reforzará la fusión** impidiendo que los cables de fibra óptica se separen.
 
 ![Procedimiento](img/3.png)
 
-### Quitar la protección plástica de la fibra
+### 4. Quitar la protección plástica de la fibra
 
 Mediante el uso de la peladora, utilizar el diámetro intermedio (900 micras) para retirar la primera cubierta, y el diámetro pequeño (125 micras) para retirar la última capa de protección. A continuación se **tira de la peladora** para retirar la cubierta de plástico de la fibra óptica. Unos 3 centímetros de fibra desnuda serán suficientes.
 
 ![Procedimiento](img/4.png)
 
-### Limpiar la fibra con alcohol isopropílico
+### 5. Limpiar la fibra con alcohol isopropílico
 
 Cuando se retira la protección plástica quedan restos que hay que limpiar, para que la calidad de la fusión sea adecuada. Mediante una toallita impregnada con **alcohol isopropílico** se limpia la fibra suavemente.
 
@@ -83,7 +83,7 @@ La razón de utilizar este tipo de alcohol estriba en que se evapora muy rápida
 
 ![Procedimiento](img/5.png)
 
-### Cortar las fibras ópticas
+### 6. Cortar las fibras ópticas
 
 Para realizar el corte de fibras se utiliza una **cortadora de precisión** que hace un corte a 90º de manera exacta. Sería imposible realizar un corte tan preciso con otras herramientas como por ejemplo unas tijeras. 
 
@@ -97,7 +97,7 @@ A continuación se baja la tapa (**2**) y se hace correr la cuchilla para cortar
 
 ![Procedimiento](img/6c.png)
 
-### Fusionar los extremos de la fibra con la fusionadora
+### 7. Fusionar los extremos de la fibra con la fusionadora
 Para realizar la fusión se colocan y aseguran los extremos de ambas fibras en las guías dispuestas a tal efecto en la fusionadora. Los extremos de las fibras deben:
 
 * Quedar alineados entre si.
@@ -123,7 +123,7 @@ Si por el contrario, la fusión ha sido correcta, el propio dispositivo estimar�
 
 ![Procedimiento](img/7c.png)
 
-### Cubrir la unión de la fibra con el canutillo
+### 8. Cubrir la unión de la fibra con el canutillo
 
 Después de la fusión de los extremos de las fibras, ambas fibras ópticas se convierten en una sola. Se extrae la fibra de las guías de la fusionadora y se cubre el punto de fusión con el canutillo protector que se introdujo en el primer paso. Ahora, se introduce el conjunto dentro del **horno de fusión** que incorpora la fusionadora y se pulsa el botón correspondiente para que el horno aplique calor y el plástico termoretráctil del canutillo se contraiga hasta que quede fijado sobre el punto de fusión y la fibra quede protegida.
 
@@ -131,7 +131,7 @@ Después de la fusión de los extremos de las fibras, ambas fibras ópticas se c
 
 ![Procedimiento](img/8b.png)
 
-### Probar el empalme
+### 9. Probar el empalme
 
 Una vez finalizado el proceso de fusión de la fibra, habría que comprobar que el empalme funciona correctamente y no se producen pérdidas significativas.
 
