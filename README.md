@@ -25,7 +25,7 @@
     * Materiales y Herramientas
     * Procedimiento
 
-4. P04. Terminación cable fibra óptica en bandeja de 19"
+4. [P04. Terminación cable fibra óptica en bandeja de 19"](P04/README.md)
 
     * Objetivo
     * Introducción
