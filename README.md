@@ -49,5 +49,5 @@
     * Materiales y Herramientas
     * Procedimiento
 
-8. Anexo: Materiales
-9. Anexo: Herramientas
+8. [Anexo: Materiales](materiales.md)
+9. [Anexo: Herramientas](herramientas.md)
