@@ -1,7 +1,6 @@
 # Montaje y Diagnóstico de Redes de Datos de fibra óptica de acuerdo a los estándares TIA/ISO
-### IES Gonzalo Nazareno
-#### Departamento de Informática (Dos Hermanas, Sevilla) (2022-2023)
-
+### Departamento de Informática 
+### IES Gonzalo Nazareno (Dos Hermanas, Sevilla) (2022-2023)
 
 ![intro](img/intro.png)
 
