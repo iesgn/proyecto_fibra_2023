@@ -111,9 +111,9 @@ Se configura la fusionadora indicándole el tipo de fibra (MM - Multimodo). En c
 * **Semiautomática**: la fusionadora se encarga de alinear las fibras. El empalme/fusión se activa pulsando la tecla Inicio/Start.
 * **Manual**: la alineación de las fibras de debe realizar manualmente haciendo uso de los “botones de dirección” de la fusionadora. El empalme/fusión se activa pulsando la tecla Inicio/Start.
 
-![Procedimeinto](img/11_config1.png)
+![Procedimeinto](img/7_config1.png)
 
-![Procedimeinto](img/11_config2.png)
+![Procedimeinto](img/7_config2.png)
 
 
 Se deben colocar los “soportes de fibra” del tamaño que se corresponde con cada cable. En este caso, se hace uso de los soportes o “holders” de 900 micras (0.9) en ambos lados.
@@ -144,7 +144,7 @@ Después de la fusión de los extremos de las fibras, ambas fibras ópticas se c
 
 Una vez finalice el proceso, se debe sacar la fibra con su canutillo del horno, y esperar unos segundos a que se enfríe. Para ello, se puede situar sobre la “bandeja de refrigeración” que incorpora la propia fusionadora.
 
-![Procedimiento](img/12c.png)
+![Procedimiento](img/8c.png)
 
 ### 9. Probar el empalme
 
