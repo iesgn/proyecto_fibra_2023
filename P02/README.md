@@ -48,9 +48,9 @@ La fibra óptica está protegida mediante varias capas de plástico que hay que 
 
 Para ello, se utiliza la peladora de fibra óptica, que dispone de **varios orificios con diferentes diámetros** para ir quitando las protecciones capa por capa, hasta llegar a la fibra. Por tanto, esta operación hay que repetirla para quitar sucesivamente cada una de las cubiertas del cable de fibra óptica.
 
-Con una mano se toma la peladora de fibra, mientras con la otra se toma el extremo de una de las fibras ópticas y se introduce en el orificio adecuado de la peladora. Para retirar la cubierta exterior utilizaremos el diámetro máyor. A continuación **se hace un corte en la cubierta exterior de la peladora** y se retira dicha cubierta de plástico tirando con la mano. 
+Con una mano se toma la peladora de fibra, mientras con la otra se toma el extremo de una de las fibras ópticas y se introduce en el orificio adecuado de la peladora. Para retirar la cubierta exterior utilizaremos el diámetro mayor. A continuación **se hace un corte en la cubierta exterior de la peladora** y se retira dicha cubierta de plástico tirando con la mano. 
 
-**Es conveniente retirar entre 12-14 centimetros de cubierta exterior.**
+Es conveniente retirar entre 12-14 centímetros de cubierta exterior.
 
 ![Procedimiento](img/1b.JPG)
 ![Procedimiento](img/1c.JPG)
@@ -103,6 +103,8 @@ Para realizar la fusión se colocan y aseguran los extremos de ambas fibras en l
 
 Siempre **sin que fibras ni electrodos hagan contacto físico**. 
 
+La fusionadora de manera automática evalúa y alinea las fibras antes de proceder a derretir las puntas con una descarga eléctrica para que queden **fusionadas entre sí** y por tanto físicamente unidas.
+
 Se configura la fusionadora indicándole el tipo de fibra (MM - Multimodo). En cuanto al “Modo operando Fusión”, se puede optar por tres opciones:
 
 * **Automática**: la fusionadora se encarga de alinear las fibras e iniciar el fusionado de forma automática.
@@ -140,12 +142,14 @@ Después de la fusión de los extremos de las fibras, ambas fibras ópticas se c
 
 ![Procedimiento](img/8b.png)
 
+Una vez finalice el proceso, se debe sacar la fibra con su canutillo del horno, y esperar unos segundos a que se enfríe. Para ello, se puede situar sobre la “bandeja de refrigeración” que incorpora la propia fusionadora.
+
+![Procedimiento](img/12c.png)
+
 ### 9. Probar el empalme
 
 Una vez finalizado el proceso de fusión de la fibra, habría que comprobar que el empalme funciona correctamente y no se producen pérdidas significativas.
 
-IMAGEN
-
-ENALCE A P05: Prueba de enlace en fibra óptica
+[P05: Prueba de enlace en fibra óptica](../P05/README.md)
 
 
