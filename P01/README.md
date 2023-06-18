@@ -247,7 +247,7 @@ Luz láser.
     
     Cada sistema láser deberá llevar de forma permanente y en lugar visible una o más etiquetas de aviso, según la Clase o grupo de riesgo al que pertenezca.
 
-    ![p01](img/37.png)
+    ![p01](img/37.jpg)
 
     Junto con la señal triangular de advertencia con el símbolo de peligro por radiación láser, cada equipo llevará en lugar visible otras etiquetas rectangulares con frases de advertencia que permitirán al usuario conocer el potencial riesgo al que se expone, y cómo evitarlo.
 
