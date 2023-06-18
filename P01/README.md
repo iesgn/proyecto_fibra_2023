@@ -255,15 +255,15 @@ Luz láser.
 
     Tenga especial cuidado con los módulos de fibra del certificador DTX1800.
 
-    ![p01](img/40.png)
+    ![p01](img/40.jpg)
 
     Así como con los conectores ópticos de salida del OTDR.
 
-    ![p01](img/41.png)
+    ![p01](img/41.jpg)
 
     Finalmente, habría que indicar que cuando observamos con un microscopio una fibra conectorizada o no, para evaluar su estado (pulido o limpieza), lo hacemos siempre con un microscopio de luz blanca protegido y siempre con la fibra desconectada de la fuente de luz.
 
-    ![p01](img/42.png)
+    ![p01](img/42.jpg)
 
 4. **Disolventes y soluciones de limpieza**: Los líquidos que se utilizan para limpiar las fibras ópticas y para eliminar los compuestos de relleno pueden irritar los ojos y la piel en algunos casos. Por ello, si es necesario, utilice guantes y mascarilla si es especialmente sensible a dichos productos.
 
