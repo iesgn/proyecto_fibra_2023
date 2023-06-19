@@ -4,6 +4,8 @@
 
 ![intro](img/intro.png)
 
+## Contenido
+
 1. [P01. Introducción a la Fibra Óptica y sus principales medidas de protección y seguridad](contenido/P01/README.md)
 2. [P02. Empalme por fusión de dos fibras](contenido/P02/README.md)
 3. [P03. Fusionado de pigtail](contenido/P03/README.md)
@@ -13,3 +15,9 @@
 7. [P07. Utilización del convertidor de medios](contenido/P07/README.md)
 8. [Anexo: Materiales](contenido/materiales.md)
 9. [Anexo: Herramientas](contenido/herramientas.md)
+
+## Licencia
+
+Materiales desarrollados por el Departamento de Informática del IES Gonazalo Nazareno (Dos Hermanas) para el Proyectos de elaboración de materiales y recursos didácticos de la [Resolución de 25 de julio de 2022, de la Dirección General de Formación del Profesorado e Innovación Educativa, por la que se aprueban proyectos de investigación e innovación educativa y de elaboración de materiales curriculares para el año 2022](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/novedades/detalle/ep332ikUb0dM/resolucion-por-la-que-se-aprueban-proyectos-de-investigacion-e-innovacion-educativa-y-de-elaboracion-de-materiales).
+
+Toda la documentación es libre y puede compartirse y modificarse bajo las limitaciones de la licencia Creative Commons [BY-NC-SA](LICENSE).
