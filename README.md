@@ -18,6 +18,6 @@
 
 ## Licencia
 
-Materiales desarrollados por el Departamento de Informática del IES Gonazalo Nazareno (Dos Hermanas) para el Proyectos de elaboración de materiales y recursos didácticos de la [Resolución de 25 de julio de 2022, de la Dirección General de Formación del Profesorado e Innovación Educativa, por la que se aprueban proyectos de investigación e innovación educativa y de elaboración de materiales curriculares para el año 2022](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/novedades/detalle/ep332ikUb0dM/resolucion-por-la-que-se-aprueban-proyectos-de-investigacion-e-innovacion-educativa-y-de-elaboracion-de-materiales).
+Materiales desarrollados por el Departamento de Informática del IES Gonazalo Nazareno (Dos Hermanas) para el Proyecto de elaboración de materiales y recursos didácticos titulado **Montaje y Diagnóstico de Redes de Datos de fibra óptica de acuerdo a los estándares TIA/ISO** de la [Resolución de 25 de julio de 2022, de la Dirección General de Formación del Profesorado e Innovación Educativa, por la que se aprueban proyectos de investigación e innovación educativa y de elaboración de materiales curriculares para el año 2022](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/novedades/detalle/ep332ikUb0dM/resolucion-por-la-que-se-aprueban-proyectos-de-investigacion-e-innovacion-educativa-y-de-elaboracion-de-materiales).
 
 Toda la documentación es libre y puede compartirse y modificarse bajo las limitaciones de la licencia Creative Commons [BY-NC-SA](LICENSE).
