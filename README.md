@@ -16,6 +16,21 @@
 8. [Anexo: Materiales](contenido/materiales.md)
 9. [Anexo: Herramientas](contenido/herramientas.md)
 
+## Enlaces y Descargas
+
+### Enlaces
+
+* [Página web del proyecto](https://fibra.gonzalonazareno.org)
+* [Repositorio GitHub](https://github.com/iesgn/proyecto_fibra_2023)
+
+### Descargas
+
+* [Formato exeLearning](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.elp)
+* [Formato PDF](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.pdf)
+* [Fromato EPUB](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.epub)
+* [Formato SCORM](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.zip)
+
+
 ## Licencia
 
 Materiales desarrollados por el Departamento de Informática del IES Gonazalo Nazareno (Dos Hermanas) para el Proyecto de elaboración de materiales y recursos didácticos titulado **Montaje y Diagnóstico de Redes de Datos de fibra óptica de acuerdo a los estándares TIA/ISO** de la [Resolución de 25 de julio de 2022, de la Dirección General de Formación del Profesorado e Innovación Educativa, por la que se aprueban proyectos de investigación e innovación educativa y de elaboración de materiales curriculares para el año 2022](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/novedades/detalle/ep332ikUb0dM/resolucion-por-la-que-se-aprueban-proyectos-de-investigacion-e-innovacion-educativa-y-de-elaboracion-de-materiales).
