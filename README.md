@@ -26,7 +26,7 @@
 ### Descargas
 
 * [Formato exeLearning](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.elp)
-* [Formato PDF](https://github.com/iesgn/proyecto_fibra_2023/blob/main/descargas/proyecto_fibra_optica_iesgn2223.pdf)
+* [Formato PDF](https://fibra.gonzalonazareno.org/pdf/proyecto_fibra_optica_iesgn2223.pdf)
 * [Fromato EPUB](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2023.epub)
 * [Formato SCORM](https://github.com/iesgn/proyecto_fibra_2023/raw/main/descargas/proyecto_fibra_optica_iesgn2223.zip)
 
