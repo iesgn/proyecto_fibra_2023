@@ -2,7 +2,9 @@
 
 1. Fusionadora
 
-    ![herramientas](herramientas/1.png)
+    ![herramientas](herramientas/1a.png)
+    ![herramientas](herramientas/1b.png)
+    ![herramientas](herramientas/1c.png)
 2. Cuchilla de corte
 
     ![herramientas](herramientas/2.png)
